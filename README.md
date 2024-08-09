@@ -27,5 +27,6 @@ If you have any questions or feedback, please feel free to reach out:
 
 - **GitHub**: [NghiaLam2026](https://github.com/NghiaLam2026)
 - **Email**: [nghiatlam03@gmail.com](mailto:nghiatlam03@gmail.com)
-
-## Live demo: https://nghialam2026.github.io/Art-Exhibition-Website/
+  
+## Live Demo
+Link: https://nghialam2026.github.io/Art-Exhibition-Website/
