@@ -14,7 +14,6 @@ Gallery of Greats is a virtual gallery that celebrates the works of renowned art
 
 - **HTML**: Provides the structure of the web page.
 - **CSS**: Handles the styling, including layout, typography, and hover effects.
-- **JavaScript**: Used for smooth scrolling and potential future enhancements.
 
 ## Usage ⚡
 
